@@ -1,0 +1,22 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="equalPoint" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;Data Source=hostequal1.ddns.net;Initial Catalog=C:\USERS\AKUAKU\DOWNLOADS\1_9_EQUAL\EQUALV1_24_7\EQUALV1_16_7\EQUALV1\EQUALV1\DATABASE1.MDF;User ID=SuperAdmin;Password=SuperAdmin&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;System.Data.SqlClient&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=hostequal1.ddns.net;Initial Catalog=C:\USERS\AKUAKU\DOWNLOADS\1_9_EQUAL\EQUALV1_24_7\EQUALV1_16_7\EQUALV1\EQUALV1\DATABASE1.MDF;User ID=SuperAdmin;Password=SuperAdmin</Value>
+    </Setting>
+    <Setting Name="C__USERS_AKUAKU_DOWNLOADS_1_9_EQUAL_EQUALV1_24_7_EQUALV1_16_7_EQUALV1_EQUALV1_DATABASE1_MDFConnectionString" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;Data Source=hostequal1.ddns.net;Initial Catalog=C:\USERS\AKUAKU\DOWNLOADS\1_9_EQUAL\EQUALV1_24_7\EQUALV1_16_7\EQUALV1\EQUALV1\DATABASE1.MDF;Persist Security Info=True;User ID=SuperAdmin;Password=SuperAdmin&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;System.Data.SqlClient&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=hostequal1.ddns.net;Initial Catalog=C:\USERS\AKUAKU\DOWNLOADS\1_9_EQUAL\EQUALV1_24_7\EQUALV1_16_7\EQUALV1\EQUALV1\DATABASE1.MDF;Persist Security Info=True;User ID=SuperAdmin;Password=SuperAdmin</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
